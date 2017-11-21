@@ -1,0 +1,3 @@
+[submodule "PaintShooter/Assets/Scripts/Core"]
+	path = PaintShooter/Assets/Scripts/Core
+	url = https://github.com/MovieCl1p/Core.git
