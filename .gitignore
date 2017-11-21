@@ -1,2 +1,5 @@
 PaintShooter/Library/
 PaintShooter/Temp/
+*.csproj
+PaintShooter/.vs/
+*.sln
