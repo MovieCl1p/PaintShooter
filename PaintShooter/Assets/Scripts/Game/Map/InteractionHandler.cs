@@ -10,7 +10,6 @@ namespace Game.Map
 
         public void OnMouseUpAsButton()
         {
-            Debug.Log("Click");
             if(OnClick != null)
             {
                 OnClick();

@@ -3,3 +3,4 @@ PaintShooter/Temp/
 *.csproj
 PaintShooter/.vs/
 *.sln
+PaintShooter/Assets/LocalData/

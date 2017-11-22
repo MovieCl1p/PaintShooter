@@ -15,7 +15,7 @@ namespace Game.Map.Components
             _view.SetActive(true);
 
             UnscheduleUpdate();
-            ScheduleUpdate(1);
+            ScheduleUpdate(1, false);
         }
 
         protected override void OnScheduledUpdate()
